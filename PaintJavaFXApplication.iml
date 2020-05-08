@@ -14,5 +14,9 @@
     <orderEntry type="library" name="fontawesomefx-8.9" level="project" />
     <orderEntry type="library" name="ikonli-fontawesome-pack-11.3.4" level="project" />
     <orderEntry type="library" name="jfoenix-9.0.8" level="project" />
+    <orderEntry type="library" name="jfxtras-common-10.0-r1" level="project" />
+    <orderEntry type="library" name="jfxtras-window-10.0-r1" level="project" />
+    <orderEntry type="library" name="jfxtras-controls-10.0-r1" level="project" />
+    <orderEntry type="library" name="jfxtras-labs-9.0-r1" level="project" />
   </component>
 </module>

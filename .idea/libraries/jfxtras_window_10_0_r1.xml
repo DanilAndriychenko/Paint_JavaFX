@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jfxtras-window-10.0-r1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../libs/jfxtras/jfxtras-window-10.0-r1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
